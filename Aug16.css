@@ -1,0 +1,29 @@
+.a{
+    background-color: deeppink;
+    text-align: center;
+    position: fixed;
+    top:0;
+    width: 99%;
+
+}
+.yy{
+   position: absolute; 
+   z-index: 3;
+
+}
+.b{ 
+    position: absolute;
+    left: 75%;
+    top: 5%;
+    
+}
+#c{
+       position: absolute;
+       left: 30%;
+       top: 450px;
+      z-index: 0;
+}
+#c img{
+   border-radius: 50px; 
+   z-index: 0px;
+}
